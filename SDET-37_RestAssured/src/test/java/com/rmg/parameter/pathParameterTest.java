@@ -16,6 +16,7 @@ public class pathParameterTest {
 		.when()
 		.get("/projects/{Pid}")
 		.then().log().all();
+		System.out.println("success");
 		
 	}
 
