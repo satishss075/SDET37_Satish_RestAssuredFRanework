@@ -1,0 +1,13 @@
+{
+"empName":"Satish",
+"empId":"sss075",
+"email":"satish@gmail.com",
+"phoneNo":12345,
+"spouse":
+{
+"spouseName":"rohini",
+"spouseId":"diggi123",
+"spouseEmailId":"rohni@gmail.com",
+"mobileNo":[78589456,84517689]
+}
+}
